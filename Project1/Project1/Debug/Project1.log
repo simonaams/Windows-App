@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\simona\desktop\c++\tema win32api aria cerc dreptunghi\cerc.cpp(18): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\simona\desktop\c++\tema win32api aria cerc dreptunghi\cerc.cpp(22): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\simona\desktop\c++\tema win32api aria cerc dreptunghi\cerc.cpp(26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\simona\desktop\c++\tema win32api aria cerc dreptunghi\cerc.cpp(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\simona\Desktop\c++\tema win32api aria cerc dreptunghi\Project1\Debug\Project1.exe
